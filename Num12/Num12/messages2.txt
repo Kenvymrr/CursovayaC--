@@ -1,0 +1,4 @@
+user2 2024-06-01T12:00:00.000: Having lunch.
+user3 2024-06-01T12:30:15.678: Working on the project.
+user1 2024-06-01T13:45:30.123: Have a nice day!
+user2 2024-06-01T14:00:00.000: Thanks, you too!

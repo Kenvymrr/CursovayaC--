@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kesha\\Desktop\\Cursovaya\\Num12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45731EC4-761F-428F-96FE-1D19D19007AB}|Num12\\Num12.vcxproj|C:\\Users\\kesha\\Desktop\\Cursovaya\\Num12\\Num12\\Num12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45731EC4-761F-428F-96FE-1D19D19007AB}|Num12\\Num12.vcxproj|solutionrelative:Num12\\Num12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Num12.cpp",
+              "DocumentMoniker": "C:\\Users\\kesha\\Desktop\\Cursovaya\\Num12\\Num12\\Num12.cpp",
+              "RelativeDocumentMoniker": "Num12\\Num12.cpp",
+              "ToolTip": "C:\\Users\\kesha\\Desktop\\Cursovaya\\Num12\\Num12\\Num12.cpp",
+              "RelativeToolTip": "Num12\\Num12.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAF0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T10:58:46.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

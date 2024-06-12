@@ -1,0 +1,7 @@
+﻿  Num3.cpp
+C:\Users\kesha\Desktop\Cursovaya\Num3\Num3\Num3.cpp(76,70): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\kesha\Desktop\Cursovaya\Num3\Num3\Num3.cpp(76,70): warning C4267:         with
+C:\Users\kesha\Desktop\Cursovaya\Num3\Num3\Num3.cpp(76,70): warning C4267:         [
+C:\Users\kesha\Desktop\Cursovaya\Num3\Num3\Num3.cpp(76,70): warning C4267:             _Ty=int
+C:\Users\kesha\Desktop\Cursovaya\Num3\Num3\Num3.cpp(76,70): warning C4267:         ]
+  Num3.vcxproj -> C:\Users\kesha\Desktop\Cursovaya\Num3\x64\Debug\Num3.exe

@@ -1,0 +1,3 @@
+lazy{idle, sluggish, inactive}
+bright{sunny, radiant, luminous}
+excited{thrilled, eager, enthusiastic}

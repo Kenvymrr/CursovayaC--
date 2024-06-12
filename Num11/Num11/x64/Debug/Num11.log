@@ -1,0 +1,6 @@
+﻿  Num11.cpp
+C:\Users\kesha\Desktop\Cursovaya\Num11\Num11\Num11.cpp(141,41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kesha\Desktop\Cursovaya\Num11\Num11\Num11.cpp(213,41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kesha\Desktop\Cursovaya\Num11\Num11\Num11.cpp(276,41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kesha\Desktop\Cursovaya\Num11\Num11\Num11.cpp(339,41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Num11.vcxproj -> C:\Users\kesha\Desktop\Cursovaya\Num11\x64\Debug\Num11.exe
